@@ -1,4 +1,4 @@
 # c-program
 <br>
 
-Author = Kritagy 
+Author = Kritagya
